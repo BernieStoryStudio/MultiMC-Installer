@@ -1,2 +1,3 @@
-# MultiMC-Installer
-MultiMC-Installer is a custom made EXE installer for MultiMC
+# <p align="center">📦⬘⬔⬖ 𝓜𝓤𝓛𝓣𝓘𝓜𝓒-𝓘𝓝𝓢𝓣𝓐𝓛𝓛𝓔𝓡 ⬗⬕⬙📦
+<p align="center">Multimc Installer is a self-extracting file that puts everything on your computer to run MultiMC easily.
+<p>![githubimage](https://i.imgur.com/MqAneTz.png)
